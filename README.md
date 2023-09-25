@@ -1,4 +1,4 @@
-# github-actions
+# actions
 Code along to Summer of tech video
 
-This shall trigger the "github" actions
+This shall trigger the actions
